@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 4,
+    "Name": "strawberry",
+    "Description": "Description: strawberry",
+    "Price": 7.72,
+    "CreateOn": "2022-12-19T14:37:52.4637596+02:00"
+  },
+  {
+    "Id": 5,
+    "Name": "raspberry",
+    "Description": "Description: raspberry",
+    "Price": 2.09,
+    "CreateOn": "2022-12-19T22:43:38.5465495+02:00"
+  },
+  {
+    "Id": 6,
+    "Name": "blueberry",
+    "Description": "Description: blueberry",
+    "Price": 1.83,
+    "CreateOn": "2022-12-03T22:20:35.6095081+02:00"
+  },
+  {
+    "Id": 7,
+    "Name": "blackberry",
+    "Description": "Description: blackberry",
+    "Price": 0.96,
+    "CreateOn": "2022-12-02T12:21:18.9818014+02:00"
+  }
+]

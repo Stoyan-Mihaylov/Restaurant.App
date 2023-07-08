@@ -1,0 +1,20 @@
+{
+  "2022-11-27T00:00:00+02:00": {
+    "AvgOrderPrice": 34.572222222222222222222222222,
+    "MinOrderPrice": 8.36,
+    "MaxOrderPrice": 75.24,
+    "OrdersQuantityForDay": 9
+  },
+  "2022-11-28T00:00:00+02:00": {
+    "AvgOrderPrice": 17.015,
+    "MinOrderPrice": 7.72,
+    "MaxOrderPrice": 30.68,
+    "OrdersQuantityForDay": 6
+  },
+  "2022-11-29T00:00:00+02:00": {
+    "AvgOrderPrice": 40.24,
+    "MinOrderPrice": 31.17,
+    "MaxOrderPrice": 53.20,
+    "OrdersQuantityForDay": 3
+  }
+}

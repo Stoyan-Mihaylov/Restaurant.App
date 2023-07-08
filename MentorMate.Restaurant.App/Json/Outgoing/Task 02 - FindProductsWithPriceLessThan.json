@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 0,
+    "Name": "apple",
+    "Description": "Description: apple",
+    "Price": 4.80,
+    "CreateOn": "2022-12-18T06:58:54.9351577+02:00"
+  },
+  {
+    "Id": 1,
+    "Name": "pineapple",
+    "Description": "Description: pineapple",
+    "Price": 3.20,
+    "CreateOn": "2022-11-27T17:29:09.0413137+02:00"
+  },
+  {
+    "Id": 5,
+    "Name": "raspberry",
+    "Description": "Description: raspberry",
+    "Price": 2.09,
+    "CreateOn": "2022-12-19T22:43:38.5465495+02:00"
+  },
+  {
+    "Id": 6,
+    "Name": "blueberry",
+    "Description": "Description: blueberry",
+    "Price": 1.83,
+    "CreateOn": "2022-12-03T22:20:35.6095081+02:00"
+  },
+  {
+    "Id": 7,
+    "Name": "blackberry",
+    "Description": "Description: blackberry",
+    "Price": 0.96,
+    "CreateOn": "2022-12-02T12:21:18.9818014+02:00"
+  },
+  {
+    "Id": 8,
+    "Name": "kiwi",
+    "Description": "Description: kiwi",
+    "Price": 2.72,
+    "CreateOn": "2022-12-15T03:00:39.8375104+02:00"
+  }
+]

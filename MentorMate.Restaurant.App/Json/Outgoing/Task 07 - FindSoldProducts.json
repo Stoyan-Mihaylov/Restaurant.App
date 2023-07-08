@@ -1,0 +1,38 @@
+{
+  "apple": {
+    "AggregatedPrice": 4.80,
+    "Quantity": 121
+  },
+  "banana": {
+    "AggregatedPrice": 5.44,
+    "Quantity": 113
+  },
+  "blackberry": {
+    "AggregatedPrice": 0.96,
+    "Quantity": 118
+  },
+  "blueberry": {
+    "AggregatedPrice": 1.83,
+    "Quantity": 143
+  },
+  "kiwi": {
+    "AggregatedPrice": 2.72,
+    "Quantity": 156
+  },
+  "orange": {
+    "AggregatedPrice": 9.52,
+    "Quantity": 110
+  },
+  "pineapple": {
+    "AggregatedPrice": 3.20,
+    "Quantity": 164
+  },
+  "raspberry": {
+    "AggregatedPrice": 2.09,
+    "Quantity": 143
+  },
+  "strawberry": {
+    "AggregatedPrice": 7.72,
+    "Quantity": 113
+  }
+}
